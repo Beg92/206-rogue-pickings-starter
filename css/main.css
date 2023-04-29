@@ -111,12 +111,12 @@ header nav ul li a {
 
 .main-image {
     width: 100%;
-    border-bottom: 3px solid #77a466;
+    border-bottom: 0px solid #77a466;
 }
 
 .main-image img {
     width: 100%;
-    border-bottom: 3px solid #77a466;
+    border-bottom: 0px solid #77a466;
 }
 
 .main-title h2 {
@@ -218,4 +218,7 @@ footer span {
         display: flex;
         justify-content: space-between;
     }
+        #skills {
+            padding-top: 80px;
+        }
 }
